@@ -1,6 +1,6 @@
 🎉 Wedding Photobooth Project
 
-A fun and interactive web‑based photobooth app you can use at weddings, parties, or any event where people want to snap instant digital memories. 📸
+A fun and interactive web‑based photobooth app you can use at Kanisa and Nakarin weddings, my best frineds, to snap instant digital memories. 📸
 
 Live demo here:
 👉 https://vercel.com/songs-projects-1d887370/weddingphotoboothproject
@@ -13,8 +13,6 @@ This is a simple photobooth web app where users can:
 
 🎛️ See a countdown before snapping
 
-🎨 Add fun backgrounds and frames
-
 🖼️ Display a final canvas version of the picture to download or share
 
 Works on mobile and desktop (just open in a proper browser like Safari/Chrome — not inside in‑app browsers like Line)
@@ -24,7 +22,7 @@ It’s built with HTML, CSS, and JavaScript, and deployed on Vercel for easy sha
 🚀 Why this is cool
 
 People love photo booths at weddings and events because they add excitement and unforgettable memories. 📸
-This app brings that same vibe to the web — no hardware box required! Guests can just open a link and start snapping fun pics on the spot.
+This app brings that same vibe to the web and no hardware box required! Guests can just open a link and start snapping fun pics on the spot.
 
 🧠 How it works
 
@@ -38,7 +36,7 @@ The result is shown on a canvas with custom UI elements.
 
 Users can download or share the image.
 
-No backend required — all the photo magic happens in the browser itself. ✨
+No backend required, all the photo magic happens in the browser itself. ✨
 
 🛠️ Tech Stack
 
@@ -66,11 +64,11 @@ Open localhost in a real browser (Chrome/Safari)
 
 Make sure to open the app in a secure, regular browser tab
 
-Some in‑app browsers (like Line) don’t support camera features
+Some in‑app browsers (like Line, Whatapp) don’t support camera features
 
 Works best on HTTPS (like the deployed Vercel link)
 
 ❤️ Have Fun!
 
-This project is all about good times and memories. If you try it at your next event, send a screenshot 😉
+This project is all about good times and memories. Not for make money.
 Happy snapping! 🚀📷
