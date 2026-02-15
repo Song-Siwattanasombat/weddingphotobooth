@@ -3,7 +3,7 @@
 A fun and interactive web‑based photobooth app you can use at Kanisa and Nakarin weddings, my best frineds, to snap instant digital memories. 📸
 
 Live demo here:
-👉 https://vercel.com/songs-projects-1d887370/weddingphotoboothproject
+👉 https://weddingphotoboothproject.vercel.app/
 
 💡 What it is
 
